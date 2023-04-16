@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.horizontalModalField .form-field {
+    background-color: aqua;
+}
+
+/* .horizontalModalField .form-field label {
+    @apply col-span-4;
+}
+
+.horizontalModalField .form-field .form-field-input {
+    @apply col-span-8;
+} */
